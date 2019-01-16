@@ -1,0 +1,8 @@
+1、注意数据库的问题，需要按要求建立数据库
+数据库名：clothes，文件位置：resources/clothes.sql
+2、访问地址
+（1）三级联动：http://localhost:8080/selected.jsp
+（2）登录：http://localhost:8080/login.do
+用户名：wds  密码：123456
+（3）分页：localhost:8080/brandList.do
+
